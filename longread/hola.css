@@ -1,0 +1,180 @@
+@charset "utf-8";
+#titulo {
+	color: #000155;
+	font-family: advent-pro;
+	margin-right: 0px;
+	border-top-width: thin;
+	text-align: center;
+	font-variant: normal;
+	text-transform: capitalize;
+	right: 0vmax;
+	font-style: normal;
+	font-weight: 400;
+	background-color: #FFFFFF;
+	font-size: xx-large;
+}
+#entradilla {
+	color: #0A98FF;
+	font-style: italic;
+	text-align: center;
+	text-shadow: 0 0px #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	border-width: 900px 80px 80px;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 10px;
+	padding-left: px;
+	padding-top: 30px;
+}
+#imagen1 {
+	text-align: center;
+	padding-top: 20px;
+}
+#textocorto {
+	color: #000000;
+	font-style: normal;
+	font-variant: normal;
+	text-align: center;
+	font-weight: bold;
+	font-size: x-large;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#texto2 {
+	color: #0600A2;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: large;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+#texto3 {
+	padding-left: 50px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	color: #000000;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: x-large;
+	text-shadow: 0px 0px #FFFFFF;
+	text-align: center;
+}
+#textoresaltado {
+	color: #FFFFFF;
+	background-color: #000000;
+	text-transform: uppercase;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	font-weight: 100;
+	font-size: xx-large;
+	text-align: center;
+	padding-bottom: 2px;
+}
+
+#imagen2 {
+	text-align: center;
+}
+#textolateral {
+	text-align: center;
+	color: #000000;
+	left: px;
+	padding-left: 0px;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+	font-weight: bold;
+}
+#texto4 {
+	color: #000000;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: x-large;
+	padding-bottom: 20px;
+}
+
+
+p {
+	text-align: left;
+}
+#textito {
+	color: #000000;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: x-large;
+	padding-bottom: 0px;
+}
+#textocubo {
+	margin-left: 550px;
+	margin-right: 550px;
+	color: #CB5200;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-variant: small-caps;
+	text-align: center;
+}
+#titulodos {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #000000;
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 400;
+	font-size: xx-large;
+	text-decoration: underline;
+	text-align: center;
+}
+#imagen3 {
+	text-align: center;
+	padding-bottom: 1px;
+}
+#textofinal {
+	color: #FFFFFF;
+	background-repeat: repeat;
+	background-image: url(images/carreterish.jpg);
+	background-size: contain;
+	background-clip: content-box;
+	-webkit-box-shadow: 0px 0px 0px;
+	box-shadow: 0px 0px 0px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+	text-shadow: 0px 0px;
+	font-style: oblique;
+	font-variant: small-caps;
+	font-weight: bolder;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#imagenfinal {
+	text-align: center;
+	padding-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen{
+
+
+
+}
