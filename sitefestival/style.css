@@ -1,0 +1,183 @@
+@charset "utf-8";
+
+nav a {
+        display:block;
+        padding: 10px 5px 0px 5px;
+        text-decoration: none;
+        color:#FF0004;
+        font-size:2em;
+	font-family: "advent-pro";
+	
+}
+nav a:hover {
+        background-color:#333;
+        color:#FF0004;
+}
+nav a:active {
+        color:#f00;
+}
+nav a:visited {
+        color:#7C7C7C;
+}
+
+nav ul {
+        margin:0;
+        padding:0;
+        text-align:right;
+}
+
+nav li {
+        display:inline-block;
+}
+header {
+	background-image:url(images/baner.jpg);
+	height: 350px;
+	position: relative;
+	background-size: cover;
+	line-height: 0px;
+}
+header div {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: #FFFFFF;
+	font-size: 166px;
+	text-shadow: 5px 5px 6px #000000;
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+
+}
+body {
+	background-color: #EFEFEF;
+}
+
+#foter {
+	width: auto;
+	background-color: #FF0004;
+	height: 87px;
+	margin-top:5%;
+}
+h1 {
+	background-size: cover;
+	background-repeat: repeat-x;
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 100;
+	color: #FF0004;
+	font-size: 42px;
+	text-align: center;
+	font-variant: normal;
+}
+.content {
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family:Arial;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+}
+.content2 {
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+	padding-bottom: 25px;
+}
+footer div {
+	color: #FFFFFF;
+	font-family: advent-pro;
+	font-size: 73px;
+	text-align: center;
+}
+#imagen1 {
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 0px;
+}
+#imagenpremio {
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 25px;
+	margin-bottom: 0px;
+}
+.content2 {
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family:Arial;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+}
+h2 {
+	background-size: cover;
+	background-repeat: repeat-x;
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 100;
+	color: #FF0004;
+	font-size: 42px;
+	text-align: center;
+	font-variant: normal;
+}
+#imagen2 {
+	text-align: center;
+	padding-top: 25px;
+}
+#header2 {
+	background-image:url(images/baner2.jpg);
+	height: 350px;
+	position: relative;
+	background-size: cover;
+	line-height: 0px;
+}
+#header3 {
+	background-image:url(images/baner4.jpg);
+	height: 350px;
+	position: relative;
+	background-size: cover;
+	line-height: 0px;
+}
+#header4 {
+	background-image:url(images/baner3.jpg);
+	height: 350px;
+	position: relative;
+	background-size: cover;
+	line-height: 0px;
+}
+#perfiles {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+.nombre1 {
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 100;
+	text-align: left;
+	font-size: large;
+	padding-left: 0px;
+	left: auto;
+	margin-left: 65px;
+	margin-bottom: 25px;
+}
+#perfiles2 {
+	position: absolute;
+	margin-left: 0%;
+	padding-left: 65%;
+}
+.nombre2 {
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 100;
+	font-size: large;
+	text-align: center;
+	padding-left: 0%;
+	padding-right: 0%;
+}
