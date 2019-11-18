@@ -1,0 +1,51 @@
+@charset "utf-8";
+#estilo {
+	text-align: center;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+h3  {
+	font-family:Arial;
+	font-style: normal;
+	font-weight: 400;
+	color: #563CAB;
+}
+.text-body.text-center {
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.background-coche {
+	background-image: url(images/carretera.jpg);
+	background-size: cover;
+	background-position: center;
+	padding-bottom: 2%;
+	padding-top: 3%;
+}
+.lead {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: xx-large;
+	line-height: normal;
+	text-shadow: 2px 4px 13px #0F0F0F;
+	font-family:Arial;
+	font-style: normal;
+	font-weight: 400;
+}
+.navbar-brand {
+	color: #1701A4;
+	font-family:Arial;
+	font-style: normal;
+	font-weight: 400;
+	background-color: #FFFFFF;
+	text-align: left;
+	padding-left: 50%;
+	padding-bottom: 5%;
+}
+.text-body.alert-info.bg-danger {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.text-body.text-center {
+	color: #000000;
+	font-style: normal;
+}
