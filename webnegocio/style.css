@@ -1,0 +1,68 @@
+@charset "utf-8";
+.jumbotron {
+    background-color: #BFE7E7;
+}
+body {
+    background-color: #BFE7E7;
+}
+.display-4 {
+    text-align: center;
+}
+.formulario {
+    width: 470px;
+    height: 32px;
+    margin-top: 2px;
+    margin-bottom: 8px;
+
+}
+.area {
+    width: 470px;
+    height: 32px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.consulta {
+    width: 470px;
+    height: 200px;
+}
+.lead {
+    text-align: center;
+}
+.boton {
+    background-color: #292929;
+    color: #FFFFFF;
+    font-weight: lighter;
+    font-size: large;
+    width: 470px;
+}
+.jumbotron {
+    text-align: center;
+    padding-top: 100px;
+}
+.text {
+    line-height: normal;
+    font-size: 85px;
+    margin-top: 5%;
+    text-align: center;
+    font-weight: 400;
+    font-family: alex-brush;
+    font-style: normal;
+    margin-bottom: 20px;
+}
+.texto {
+    font-style: italic;
+    font-weight: 400;
+    text-align: center;
+    font-size: large;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.foto {
+    text-align: center;
+    margin-top: 35px;
+}
+.ubi {
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 0%;
+}
