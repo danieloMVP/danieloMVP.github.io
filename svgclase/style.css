@@ -1,0 +1,63 @@
+@charset "utf-8";
+#Capa_3 {
+    animation: animate 4s infinite;
+    padding-top: 1%;
+}
+@keyframes animate{
+	0%{
+		stroke: white;
+	}
+	50%{
+		stroke: black;
+
+	}
+			80%{
+		stroke: white;
+
+	}
+		100%{
+		stroke: white;
+
+	}
+}
+#Capa_3{
+    width: 1300px;
+	display: block;
+	margin: auto;
+}
+h1 {
+    font-family: alex-brush;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    font-size: 74px;
+    padding-top: 3%;
+}
+.iconofb {
+	font-size: 50px;
+	text-align: center;
+}
+.iconofb:hover {
+	color:#868686;
+}
+
+.iconotw {
+	font-size: 50px;
+	text-align: center;
+}
+.iconotw:hover {
+	color:#868686;
+}
+.iconoig {
+	font-size: 50px;
+	text-align: center;
+}
+.iconoig:hover {
+	color:#868686;
+}
+#redes {
+    text-align: center;
+    margin-top: 4%;
+}body {
+    background-color: #DDDDDD;
+}
